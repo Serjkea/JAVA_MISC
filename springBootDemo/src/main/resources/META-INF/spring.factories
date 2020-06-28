@@ -1,0 +1,3 @@
+org.springframework.boot.env.EnvironmentPostProcessor = ru.practics.springbootdemo.ProfileEnvironmentPostProcessor
+org.springframework.context.ApplicationContextInitializer = ru.practics.springbootdemo.ProfileApplicationInitializer
+org.springframework.boot.autoconfigure.EnableAutoConfiguration = ru.practics.springbootdemo.Configuration
