@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "listener",
+      "type": "ru.practics.springbootdemo.MyProperties",
+      "sourceType": "ru.practics.springbootdemo.MyProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b55146a1-3cc2-43fc-bf7a-8750b2651f98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DataCenter/DataCenter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataCenter/src/DataCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examples/Examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProxy/JavaProxy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProxy/src/main/java/MessageServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProxy/src/main/java/service/MessageServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProxy/src/main/java/service/TextService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootProject/src/main/java/ru/skprojects/springbootproject/controller/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootProject/src/main/java/ru/skprojects/springbootproject/domain/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootProject/src/main/java/ru/skprojects/springbootproject/domain/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootProject/src/main/java/ru/skprojects/springbootproject/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootProject/src/main/java/ru/skprojects/springbootproject/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootProject/src/main/java/ru/skprojects/springbootproject/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootProject/src/main/java/ru/skprojects/springbootproject/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBootProject/src/main/java/ru/skprojects/springbootproject/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringLearnProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringLearnProject/.idea/libraries/Spring_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringLearnProject/.idea/libraries/javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringLearnProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringLearnProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringLearnProject/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringLearnProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringLearnProject/SpringLearnProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringLearnProject/src/main/java/CallApplicationMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringLearnProject/src/main/java/additional/MyContextRefreshedEventHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringLearnProject/src/main/java/repository/MessageStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringLearnProject/src/main/java/repository/MessageStoreImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringLearnProject/src/main/java/service/CallServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcTestApp/SpringMvcTestApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcTestApp/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcTestApp/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringProject/SpringProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringProject/src/main/SpringApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringProject/src/main/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringProject/src/main/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringProject/src/main/repository/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringProject/src/main/repository/UserStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringProject/src/main/resources/appcontext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringProject/src/main/service/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringProject/src/main/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserServiceSpringProject/UserServiceSpringProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserServiceSpringProject/src/main/java/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserServiceSpringProject/src/main/java/repository/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserServiceSpringProject/src/main/java/repository/UserDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserServiceSpringProject/src/main/java/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserServiceSpringProject/src/main/java/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myEEProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myEEProject/.idea/artifacts/myEEProject_ear_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myEEProject/.idea/artifacts/myEEProject_ejb_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myEEProject/.idea/artifacts/myEEProject_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myEEProject/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myEEProject/.idea/libraries/javax_enterprise_cdi_api_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myEEProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myEEProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myEEProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myEEProject/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myEEProject/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myEEProject/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myEEProject/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myEEProject/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myEEProject/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myEEProject/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myEEProject/myEEProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myEEProject/src/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myEEProject/src/ParamServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myEEProject/src/ResourcesServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myEEProject/src/WelcomeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myEEProject/src/model/Resource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myEEProject/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myEEProject/web/postform.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/java/ru/skprojects/wmblog/controller/WMBlogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/java/ru/skprojects/wmblog/model/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/java/ru/skprojects/wmblog/repository/MessageRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/java/ru/skprojects/wmblog/service/MessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/static/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/static/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/static/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/static/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/static/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/static/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/static/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/static/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/static/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/static/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/static/images/aboutme.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/static/images/blog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/static/images/home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/static/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/static/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/static/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/static/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/static/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/static/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/templates/aboutme.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/templates/admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/templates/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/templates/contacts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmblog/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA_PROJECTS" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1c5uI2z56zD9YMJcD7RwwzGnran" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringBootExampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springBootExample" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.projects.springbootexample.SpringBootExampleApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b55146a1-3cc2-43fc-bf7a-8750b2651f98" name="Default Changelist" comment="" />
+      <created>1589830691455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589830691455</updated>
+      <workItem from="1589830706521" duration="1927000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
